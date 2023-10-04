@@ -1,4 +1,4 @@
-# Smart-water-foundation-
+# Smart-water-fountains-
 Smart water fountains
 Smart water fountains using IoT (Internet of Things) can have various applications, from water conservation to user-friendly features. Here's a basic outline to get you started:
 
